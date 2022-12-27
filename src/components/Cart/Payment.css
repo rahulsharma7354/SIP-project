@@ -1,0 +1,9 @@
+.Container{
+    display: flex;
+}
+.img{
+    justify-content: center;
+    display: flex;
+    margin-left: 38rem;
+    border-radius: 10px;
+}
